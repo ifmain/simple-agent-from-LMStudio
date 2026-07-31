@@ -1,0 +1,9 @@
+{
+    "server": "http://localhost:1234/v1",
+    "api_key": "lm-studio",
+    "model": "qwopus-3.5h-9b",
+    "temperature": 0.1,
+    "is_debug": false,
+    "is_test": false,
+    "lang": "Русский"
+}
